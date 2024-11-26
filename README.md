@@ -50,12 +50,10 @@ FaceRecognition/
 
 Follow these steps to run the face recognition script:
 
-1. **Clone the Repository**  
-   Clone this repository to your local machine or download the script file.
+Clone this repository to your local machine or download the script file.
 
-   ```bash
-   git clone https://github.com/AviyaArusi/Selfie_face_recognition.git
-   cd Selfie_face_recognition
+```bash
+git clone https://github.com/AviyaArusi/Selfie_face_recognition.git
+cd Selfie_face_recognition
 
-   ```bash
-   python faceRecognition.py
+python faceRecognition.py
