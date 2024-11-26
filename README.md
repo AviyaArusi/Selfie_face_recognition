@@ -34,17 +34,6 @@ A Python script that uses the `face_recognition` library to identify photos cont
    ```bash
    pip install face_recognition numpy dlib
 
-### Directory Structure
-Before running the script, organize your project directory as follows:
-FaceRecognition/
-│
-├── selfie.jpeg         # Reference image of the face to match
-├── faceRecognition.py      # Python script
-├── InputImage/         # Folder containing images to be scanned
-│   ├── image1.jpg
-│   ├── image2.png
-│   ├── ...
-└── OutputImage/        # Folder where matched images will be copied (created automatically)
 
 ## How to Use
 
